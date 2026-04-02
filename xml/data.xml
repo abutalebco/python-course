@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<students>
+ <person id="1">
+  <name>Hossam Mahmoud</name>
+  <age>20</age>
+  <major>Computer Science</major>
+ </person>
+ <person id="2">
+  <name>Micheal Fahmy</name>
+  <age>21</age>
+  <major>Mathematics</major>
+ </person>
+ <person id="3">
+  <name>Maged Abdul</name>
+  <age>19</age>
+  <major>Physics</major>
+ </person>
+ <person id="4">
+  <name>Virina Fady</name>
+  <age>22</age>
+  <major>Engineering</major>
+ </person>
+ <person id="5">
+  <name>Mariam Mostafa</name>
+  <age>20</age>
+  <major>Chemistry</major>
+ </person>
+ <person id="6">
+  <name>Daleda Osman</name>
+  <age>22</age>
+  <major>Project Management</major>
+ </person>
+</students>
